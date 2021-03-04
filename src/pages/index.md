@@ -9,7 +9,7 @@ sections:
       We have listed down the Top resources for the QA from Start to Expert
       Level.
     actions:
-      - label: Get Started
+      - label: Become Better QA
         url: /docs
         style: primary
   - section_id: features
@@ -24,7 +24,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: 🧠 Medium Level
+      - title: "\U0001F9E0 Medium Level"
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -32,7 +32,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: 🎓 Pro Level
+      - title: "\U0001F393 Pro Level"
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
