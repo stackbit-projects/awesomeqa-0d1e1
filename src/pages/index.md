@@ -60,7 +60,7 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: Checkout Our Courses.
-    content: "## API Testing\n\n\U0001F64B\U0001F3FB‍♂️API Testing Basics - Beginner\n\n*   \U0001F468\U0001F3FB‍\U0001F393Master API Testing with Postman\n\n*   \U0001F468\U0001F3FB‍✈️Rest Assured MasterClass.\n"
+    content: "## API Testing\n\n\U0001F64B\U0001F3FB‍♂️API Testing Basics - Beginner\n\U0001F468\U0001F3FB‍\U0001F393Master API Testing with Postman\n\U0001F468\U0001F3FB‍✈️Rest Assured MasterClass.\n"
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
