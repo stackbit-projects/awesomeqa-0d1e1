@@ -16,7 +16,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: 🔥 Beginner Level
+      - title: ✍️ Beginner Level
         content: >
           New to Testing world? Looking for the Awesome List of QA resources
           Articles, Videos & Documents
