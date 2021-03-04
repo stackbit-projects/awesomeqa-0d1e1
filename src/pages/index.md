@@ -17,14 +17,9 @@ sections:
     col_number: three
     grid_items:
       - title: Beginner Level
-        content: |
-          New to Testing world? Looking for the Awesome List of QA resources. 
-
-          *   Articles
-
-          *   Videos
-
-          *   Documents
+        content: >
+          New to Testing world? Looking for the Awesome List of QA resources
+          Articles, Videos & Documents
         actions:
           - label: Get Started
             url: /docs
