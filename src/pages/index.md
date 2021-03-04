@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Curated List for Awesome Resourse for QA.
+    title: Curated List for Awesome Resources for QA.
     image: images/5.jpg
     content: >
       We have listed down the Top resources for the QA from Start to Expert
