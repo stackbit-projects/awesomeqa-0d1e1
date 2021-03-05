@@ -49,6 +49,10 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 - Reliability Testing
 - Regression Testing
 - Performance Testing
+    - Load Testing
+    - Stress Testing
+    - Scability Testing
+    - Volume
 
 ![](https://hackr.io/blog/types-of-software-testing/thumbnail/large)
 
