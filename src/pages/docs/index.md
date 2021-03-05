@@ -35,6 +35,7 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 **Types of Software Testing**
 
 ***Function Testing***
+
 - Unit Testing
 - Integration Testing
 - System Testing
