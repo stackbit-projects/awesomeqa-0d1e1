@@ -34,7 +34,7 @@ sections:
             style: link
       - title: "\U0001F393 Pro Level"
         content: >-
-          Looking for Advance Automation Framework level knowledge, Man.
+          Looking for Advance Software Testing resource?
         actions:
           - label: Learn More
             url: /style-guide
