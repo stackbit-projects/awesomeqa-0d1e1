@@ -1,7 +1,7 @@
 ---
 title: What is Testing?
 seo:
-  title: AwesomeQA - Software Testing
+  title: AwesomeQA - Software Testing explained Like a Boss.
   description: Software Testing
   extra:
     - name: 'og:type'
