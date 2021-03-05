@@ -25,11 +25,11 @@ In simple terms, Testing is basically an **activity to check whether the actual 
 
 other words, ***Process of evaluating a system or its component(s) with the intent to find whether it satisfies the specified requirements or not.***
 
-******
-
 [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)
 
+***Types of Software Testing***
 
+******![](https://hackr.io/blog/types-of-software-testing/thumbnail/large)
 
-
+***
 
