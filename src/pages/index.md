@@ -119,7 +119,7 @@ seo:
     - name: 'twitter:title'
       value: Sofware Testing Resources
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: Sofware Testing Resources
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
