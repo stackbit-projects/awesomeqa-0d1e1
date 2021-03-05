@@ -117,7 +117,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Libris Theme
+      value: Sofware Testing Resources
     - name: 'twitter:description'
       value: The preview of the Libris theme
     - name: 'twitter:image'
