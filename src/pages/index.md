@@ -45,8 +45,7 @@ sections:
     image_position: left
     title: SDET Blueprint
     content: >-
-      Exact BluePrint.
-You Need to Become SDET.
+      Exact BluePrint. You Need to Become SDET.
 Learn advance Software Testing strategies that help you crack SDET Interview.
 Watch Real-life case studies of people getting hike, job change and becoming a SDET.
 Follow a proven step-by-step Learning with LIVE Classes and To the recorded Sessions.
