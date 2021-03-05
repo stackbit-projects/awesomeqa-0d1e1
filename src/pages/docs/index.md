@@ -43,6 +43,7 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 - Interface Testing
 
 
+
 ![](https://hackr.io/blog/types-of-software-testing/thumbnail/large)
 
 ***
