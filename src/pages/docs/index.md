@@ -29,7 +29,7 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILkT_HV9DVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-** Types of Software Testing***
+** Types of Software Testing **
 
 ![](https://hackr.io/blog/types-of-software-testing/thumbnail/large)
 
