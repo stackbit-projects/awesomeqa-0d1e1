@@ -2,7 +2,7 @@
 title: What is Testing?
 seo:
   title: Testing Explained
-  description: Testing
+  description: Software Testing
   extra:
     - name: 'og:type'
       value: website
