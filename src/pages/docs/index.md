@@ -46,7 +46,7 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 - Documentation Testing
 - Security Testing
 - Installation Testing
-- User Acceptance Testing
+- Reliability Testing
 - Regression Testing
 - Interface Testing
 
