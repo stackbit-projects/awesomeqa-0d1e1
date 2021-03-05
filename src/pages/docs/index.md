@@ -1,7 +1,7 @@
 ---
 title: What is Testing?
 seo:
-  title: Welcome to Libris
+  title: Testing Explained
   description: This is the documentation page
   extra:
     - name: 'og:type'
