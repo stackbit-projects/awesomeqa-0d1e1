@@ -105,7 +105,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: Sofware Testing Resources
       keyName: property
     - name: 'og:description'
       value: The preview of the Libris theme
