@@ -2,7 +2,7 @@
 title: What is Testing?
 seo:
   title: AwesomeQA - Software Testing explained Like a Boss.
-  description: Software Testing
+  description: Learn about the Software Testing concepts.
   extra:
     - name: 'og:type'
       value: website
