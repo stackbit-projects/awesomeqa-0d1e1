@@ -58,6 +58,6 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 
 ![](https://hackr.io/blog/types-of-software-testing/thumbnail/large)
 
-credits : hacr.io
+credits : hackr.io
 
 ***
