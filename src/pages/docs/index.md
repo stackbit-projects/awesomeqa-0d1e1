@@ -27,6 +27,12 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 
 [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)
 
+https://www.youtube.com/watch?v=ILkT_HV9DVU
+
+
+
+
+
 ***Types of Software Testing***
 
 ![](https://hackr.io/blog/types-of-software-testing/thumbnail/large)
