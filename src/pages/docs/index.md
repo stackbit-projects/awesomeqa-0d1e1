@@ -45,7 +45,7 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 ***Non Functional Testing***
 - Documentation Testing
 - Security Testing
-- System Testing
+- Installation Testing
 - User Acceptance Testing
 - Regression Testing
 - Interface Testing
