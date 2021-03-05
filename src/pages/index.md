@@ -34,9 +34,7 @@ sections:
             style: link
       - title: "\U0001F393 Pro Level"
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          .
         actions:
           - label: Learn More
             url: /style-guide
