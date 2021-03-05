@@ -9,7 +9,7 @@ sections:
       We have listed down the Top resources for the QA from Start to Expert
       Level.
     actions:
-      - label: "Become Better QA\_\U0001F449\U0001F3FC"
+      - label: "\U0001F449\U0001F3FCBecome Better QA"
         url: /docs
         style: primary
   - section_id: features
