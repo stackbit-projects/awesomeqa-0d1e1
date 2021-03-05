@@ -43,7 +43,7 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 - Interface Testing
 
 ***Non Functional Testing***
-- Unit Testing
+- Documentation Testing
 - Integration Testing
 - System Testing
 - User Acceptance Testing
