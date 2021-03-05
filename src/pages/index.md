@@ -99,7 +99,7 @@ sections:
         style: primary
 seo:
   title: Curated List of Awesome Resources for QA.
-  description: The preview of the Libris theme
+  description: Sofware Testing Resources.
   extra:
     - name: 'og:type'
       value: website
