@@ -27,3 +27,9 @@ other words, ***Process of evaluating a system or its component(s) with the inte
 
 ******
 
+[Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)
+
+
+
+
+
